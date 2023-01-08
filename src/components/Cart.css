@@ -1,0 +1,8 @@
+.cartItem {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+}
+.qtyInput {
+  width: 50px;
+}
